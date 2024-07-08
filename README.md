@@ -10,7 +10,7 @@ The waste water management project aims to monitor and optimize the treatment an
 Thank to House of Concepts.
 
 ## 🚀 About Me
-Hi, I'm Gayatri, and  as a data analyst, I'm  Data Analyst. 
+Hi, I'm Gayatri, and  I'm  Data Analyst. 
 
 
 ## 🛠 Skills
